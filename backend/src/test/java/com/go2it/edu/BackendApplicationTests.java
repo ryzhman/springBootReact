@@ -1,4 +1,4 @@
-package com.example.backend;
+package com.go2it.edu;
 
 import org.junit.Test;
 import org.junit.runner.RunWith;
